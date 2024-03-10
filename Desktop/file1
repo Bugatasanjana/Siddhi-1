@@ -1,13 +1,5 @@
 x=a+b
 y=a-b
 z=a/b
-v=(a+b)/2
-w=(a-b)/3
-u=(a/b)/4
 p=b-a
-q=b/a
-r=b+a
-s=2/4
-t=15/5
-o=7/35
 
